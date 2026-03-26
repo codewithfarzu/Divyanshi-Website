@@ -959,8 +959,8 @@ img {
 }
 
 .category-img .snow-chain {
-    width: 146px;
-    height: auto;
+    width: 200px;
+    height: 250px;
 }
 
 .category-icon {
@@ -2064,6 +2064,8 @@ img {
     color: var(--primary-color);
 }
 
+.walkie-text h2{font-size: 1.5rem;}
+
 /* <!-- Sanchar Walkie all Model Details CSS --> */
 .sanchar-img img {
     width: auto;
@@ -2300,6 +2302,10 @@ img {
     /* dets sanchar page css =================== */
     .page-banner-content {
         padding-block: 0;
+    }
+
+    .walkie-text h2{
+        font-size: 1.5rem;
     }
 }
 
